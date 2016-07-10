@@ -6,7 +6,8 @@
 </head>
 
 <body>
-This is the changes for FED-2:
+BOOM BOOM BOOM.
+FED-2 changes are awesome:
 <br><br><br>
 <cfoutput>#now()#</cfoutput>
 </body>
