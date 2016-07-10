@@ -6,7 +6,7 @@
 </head>
 
 <body>
-This is the changes for FED-1:
+All changed for FED-1:
 <br><br><br>
 <cfoutput>#now()#</cfoutput>
 </body>
