@@ -1,0 +1,2 @@
+Whatever
+<cfoutput>#now()#</cfoutput>
