@@ -2,12 +2,13 @@
 
 <html>
 <head>
+<<<<<<< HEAD
 <title>Password Reset</title>
 </head>
 
 <body>
-This is the changes for BAB-14_password_reset:
-<br><br>
+This is the merged changes for both BAB-14_password_reset and BAB-14_send_validation_code:
+<br><br><br>
 <cfoutput>#now()#</cfoutput>
 </body>
 </html>
