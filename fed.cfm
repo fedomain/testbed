@@ -2,7 +2,6 @@
 
 <html>
 <head>
-<<<<<<< HEAD
 <title>Password Reset</title>
 </head>
 
