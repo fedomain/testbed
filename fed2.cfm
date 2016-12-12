@@ -6,9 +6,7 @@
 </head>
 
 <body>
-BOOM BOOM BOOM.
-FED-2 changes are awesome:
-<br><br><br>
-<cfoutput>#now()#</cfoutput>
+This is a changed file.
+It will no longer be drugged with the new world poisons.
 </body>
 </html>
